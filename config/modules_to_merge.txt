@@ -1,0 +1,21 @@
+# Modules to merge from mehah/otclient/modules/
+game_imbuements
+game_rewardwall
+game_quickloot
+game_highscores
+game_offlinetraining
+game_autoloot
+game_market
+game_actionbar
+game_minimap
+game_thingseditor
+game_itemdetails
+game_clientoptions
+game_spelllist
+game_outfit
+game_battle
+game_inventory
+game_skills
+game_store
+game_cyclopedia
+game_bestiary
